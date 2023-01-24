@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Scott
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
@@ -23,6 +23,7 @@ avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->
+
 
 # CUSTOMIZE
 #
@@ -57,7 +58,7 @@ url: "https://ossd-s23.github.io/weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/2170chm-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
